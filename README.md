@@ -18,9 +18,11 @@ Source code for following along the tutorial of Andrej Karpathy called ["Neural 
 ## Notes:
 
 ### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
-In this course we implement micrograd - a framework for Tensor-operations (e.g. addition, multiplication etc.) and backpropagation.
+In this course we implement micrograd - a Python framework for performing Tensor-operations (e.g. addition, subtraction, multiplication etc.) and backpropagation.
 
-We build: 
-- Neurons
-- Layers (group of Neurons)
-- MLP (group of Layers of Neurons)
+Among other things we implement: 
+- A Neuron
+- A Layer (of Neurons)
+- An MLP - Multi-Layer Perceptron
+
+**Derivatives** 
