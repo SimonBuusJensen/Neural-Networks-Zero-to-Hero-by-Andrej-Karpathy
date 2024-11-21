@@ -17,4 +17,4 @@ Source code for following along the tutorial of Andrej Karpathy called ["Neural 
 
 ## Notes:
 
-### The spelled-out intro to neural networks and backpropagation: building micrograd
+### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
