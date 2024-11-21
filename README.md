@@ -15,3 +15,6 @@ Source code for following along the tutorial of Andrej Karpathy called "Neural N
 8. [ ] [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9&pp=iAQB)
 9. [ ] [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10&pp=iAQB)
 
+## Notes:
+
+### The spelled-out intro to neural networks and backpropagation: building micrograd
