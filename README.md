@@ -26,3 +26,6 @@ Among other things we implement:
 - An MLP - Multi-Layer Perceptron
 
 **Derivatives** 
+
+# Environment:
+Python 
