@@ -18,3 +18,4 @@ Source code for following along the tutorial of Andrej Karpathy called ["Neural 
 ## Notes:
 
 ### 1. The spelled-out intro to neural networks and backpropagation: building micrograd
+In this course we implement micrograd - a framework for Tensor-operations (e.g. addition, multiplication etc.) and backpropagation.
