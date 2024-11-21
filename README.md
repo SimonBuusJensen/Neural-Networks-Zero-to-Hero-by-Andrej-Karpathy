@@ -1,8 +1,8 @@
 # Neural-Networks-Zero-to-Hero-by-Andrej-Karpathy
-Source code for following along the tutorial of Andrej Karpathy called "Neural Networks: Zero to Hero":
+Source code for following along the tutorial of Andrej Karpathy called ["Neural Networks: Zero to Hero"](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 ## updates:
-- Created repo and added README
+- 2024-11-21: Created repo and added README
 
 ## Videos:
 1. [ ] [1. The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&pp=iAQB) (2 minutes in)
