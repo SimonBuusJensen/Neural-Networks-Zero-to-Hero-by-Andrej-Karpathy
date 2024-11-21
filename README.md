@@ -2,7 +2,7 @@
 Source code for following along the tutorial of Andrej Karpathy called "Neural Networks: Zero to Hero":
 
 ## updates:
-- 
+- Created repo and added README
 
 ## Videos:
 1. [ ] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1&pp=iAQB) (2 minutes in)
@@ -14,3 +14,4 @@ Source code for following along the tutorial of Andrej Karpathy called "Neural N
 7. [ ] [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7&t=2069s&pp=iAQB)
 8. [ ] [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9&pp=iAQB)
 9. [ ] [Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10&pp=iAQB)
+
